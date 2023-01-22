@@ -1,0 +1,24 @@
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-xs: 14px;
+  --font-size-sm: 15px;
+  --font-size-base: 19px;
+  --font-size-lg: 20px;
+  --font-size-xl: 30px;
+  --font-size-2xl: 35px;
+  --font-size-3xl: 36px;
+  --font-size-4xl: 37px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-indigo: #2464fc;
+  --color-gray-100: #8990ad;
+  --color-gray-200: #495172;
+  --color-gray-300: #0b2257;
+  --color-gray-400: #002257;
+  --color-gray-500: #11193c;
+  --color-turquoise: #00e38c;
+}
